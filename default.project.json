@@ -1,0 +1,12 @@
+{
+    "name": "spoofer-client",
+    "tree": {
+      "$className": "DataModel",
+  
+      "ReplicatedStorage": {
+        "Public": {
+          "$path": "src/ReplicatedStorage"
+        }
+      }
+    }
+  }
